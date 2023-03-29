@@ -1,0 +1,10 @@
+.efecto{
+    width: 200px;
+    border-radius: 50%;
+    border:4px;
+    border-color: brown;
+}
+.efecto:hover{
+    width: 300px;
+    transition: 3s;
+}
